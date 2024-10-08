@@ -1,0 +1,14 @@
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\obj\Debug\net6.0\AreaSwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\obj\Debug\net6.0\AreaSwitchStatement.AssemblyInfoInputs.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\obj\Debug\net6.0\AreaSwitchStatement.AssemblyInfo.cs
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\obj\Debug\net6.0\AreaSwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\bin\Debug\net6.0\AreaSwitchStatement.exe
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\bin\Debug\net6.0\AreaSwitchStatement.deps.json
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\bin\Debug\net6.0\AreaSwitchStatement.runtimeconfig.json
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\bin\Debug\net6.0\AreaSwitchStatement.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\bin\Debug\net6.0\AreaSwitchStatement.pdb
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\obj\Debug\net6.0\AreaSwitchStatement.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\obj\Debug\net6.0\refint\AreaSwitchStatement.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\obj\Debug\net6.0\AreaSwitchStatement.pdb
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\obj\Debug\net6.0\AreaSwitchStatement.genruntimeconfig.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\AreaSwitchStatement\obj\Debug\net6.0\ref\AreaSwitchStatement.dll

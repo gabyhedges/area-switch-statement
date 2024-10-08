@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XeFYFxT7gOXdu7uKQIWRUbc4H7/Q79pcWZpCuflGN7R6oTue0OlmCehBJVC1TlUeQ7vcd+t8YWSTzTcZrYGvPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabym\\OneDrive - Torrens Global Education Services\\Desktop\\my c# programs\\AreaSwitchStatement\\AreaSwitchStatement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
